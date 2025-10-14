@@ -1,171 +1,159 @@
+<!-- Header with Animated Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mudam%20Abhilash&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Web3%20Developer%20|%20ML%20Enthusiast%20|%20Full%20Stack%20Engineer&descAlign=50&descAlignY=51&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abhilash%20Patel&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=🚀%20Blockchain%20Developer%20|%20🤖%20ML%20Engineer%20|%20🌍%20Building%20the%20Future&descAlign=50&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
+<!-- Typing Animation -->
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Building+the+Decentralized+Future+%F0%9F%9A%80;Solana+Blockchain+Developer+%E2%9B%93;Machine+Learning+Explorer+%F0%9F%A4%96;MERN+Stack+Expert+%F0%9F%92%BB)](https://git.io/typing-svg)
-  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=🌟+Web3+%26+Solana+Developer;🚀+Machine+Learning+Engineer;💻+Full+Stack+Creator;🌍+Building+Tomorrow's+Tech" alt="Typing SVG" />
 </div>
 
-<p align="center">
+<!-- Animated Waving Hand & Stats -->
+<div align="center">
+  <h2>👋 Hey there! I'm Abhilash <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
+  
   <img src="https://komarev.com/ghpvc/?username=Abhilashpatel12&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Abhilashpatel12?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
   <img src="https://img.shields.io/github/stars/Abhilashpatel12?label=Stars&style=for-the-badge&color=yellow" alt="Stars" />
-</p>
+</div>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 👨‍💻 About Me
+## 🚀 About Me
 
-```typescript
-const abhilash = {
-    location: "Hyderabad, India 📍",
-    currentFocus: ["Solana Blockchain", "Machine Learning", "Web3 Development"],
-    interests: ["DeFi", "Smart Contracts", "AI/ML", "Full Stack Development"],
-    funFact: "I turn coffee into code ☕ → 💻",
-    motto: "Building the decentralized future, one block at a time ⛓️"
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+**Web3 Developer & Machine Learning Engineer** passionate about building the decentralized future. I specialize in Solana blockchain development, smart contracts, and cutting-edge ML solutions.
+
+- 🔭 Currently building **DeFi protocols** on Solana
+- 🌱 Learning **Advanced Machine Learning** & **Blockchain Architecture**
+- 👯 Looking to collaborate on **Web3 projects** & **AI/ML applications**
+- 💬 Ask me about **Solana, React, Python, Smart Contracts**
+- 📫 Open for **freelance opportunities** worldwide
+- ⚡ Fun fact: **Coffee fuels my code** ☕ → 💻
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🏆 Achievements & Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/api/?username=Abhilashpatel12&theme=radical&no-frame=false&no-bg=false&margin-w=4" width="100%" alt="GitHub Trophies">
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🛠️ Tech Arsenal
+
+### 🌐 Blockchain & Web3
+<div align="center">
+  <img src="https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana&logoColor=white" alt="Solana" />
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js" />
+  <img src="https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Smart%20Contracts-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Smart Contracts" />
+  <img src="https://img.shields.io/badge/DeFi-FF6B6B?style=for-the-badge&logo=defi&logoColor=white" alt="DeFi" />
+</div>
+
+### 🤖 AI & Machine Learning
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+</div>
+
+### 💻 Full Stack Development
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+</div>
+
+### 🛢️ Databases & Tools
+<div align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhilashpatel12&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhilashpatel12&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.vercel.app?user=Abhilashpatel12&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🎯 Current Focus
+
+<div align="center">
+
+```javascript
+const currentFocus = {
+    blockchain: "Building DeFi protocols on Solana 🏗️",
+    machineLearning: "Developing AI-powered trading bots 🤖",
+    freelancing: "Accepting global projects 🌍",
+    learning: "Advanced Rust & Smart Contract Security 🔐",
+    goal2024: "Launch my own DeFi platform 🚀"
 };
 ```
 
----
-
-### 🚀 Tech Stack & Tools
-
-<div align="center">
-
-#### 🌐 Blockchain & Web3
-[![Solana](https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana&logoColor=white)](https://solana.com)
-[![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)](https://web3js.org)
-[![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)](https://ethereum.org)
-
-#### 🤖 Machine Learning & AI
-[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://python.org)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
-[![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
-[![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
-[![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
-
-#### 💻 Full Stack Development
-[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com)
-[![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
-
-#### 🛠️ Tools & Technologies
-[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
-[![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.org)
-[![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
-
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🌟 Current Focus
-
-- 🔭 Working on **Solana DeFi Projects** and **Smart Contract Development**
-- 🌱 Learning advanced **Machine Learning algorithms** and **Web3 technologies**
-- 👯 Looking to collaborate on **Blockchain projects** and **Open Source contributions**
-- 💬 Ask me about **Solana**, **React**, **Node.js**, **Python**, and **Machine Learning**
-- ⚡ Fun fact: I believe in the power of decentralized technologies to change the world!
-
----
-
-### 📊 GitHub Statistics
+## 📬 Let's Connect!
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhilashpatel12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhilashpatel12&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF" width="49%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhilashpatel12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="55%" />
-</div>
-
----
-
-### 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhilashpatel12&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" />
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhilashpatel12&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
-</div>
-
----
-
-### 📌 Pinned Repositories
-
-<div align="center">
-  <a href="https://github.com/Abhilashpatel12/matrix-ai-framework">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhilashpatel12&repo=matrix-ai-framework&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/Abhilashpatel12/authentication-mern-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhilashpatel12&repo=authentication-mern-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://discord.com/users/yourid" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://t.me/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/Abhilashpatel12/lending_defi_smartcontract">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhilashpatel12&repo=lending_defi_smartcontract&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-  </a>
-  <a href="https://github.com/Abhilashpatel12/my-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhilashpatel12&repo=my-portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-  </a>
+  <h3>💼 Open for Freelance Projects Worldwide! 🌎</h3>
+  <p><em>"Turning innovative ideas into reality, one commit at a time."</em></p>
 </div>
 
----
-
-### 🐍 Contribution Snake
-
+<!-- Footer Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Abhilashpatel12/Abhilashpatel12/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 </div>
 
----
-
-### 💬 Random Dev Quote
-
+<!-- Visitor Counter Animation -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-
----
-
-### 📫 Connect With Me
-
-<div align="center">
-  
-[![GitHub](https://img.shields.io/badge/GitHub-Abhilashpatel12-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhilashpatel12)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Abhilashpatel12/my-portfolio)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhilash@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-  
-  
-### ⭐ Don't forget to star repositories you find interesting!
-  
-  
-**Thanks for visiting! Have a great day! 😊**
-  
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Thank you for visiting!</b> Have a great day! ✨</em> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 </div>
