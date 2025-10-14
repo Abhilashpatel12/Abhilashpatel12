@@ -126,10 +126,10 @@ const currentFocus = {
 ## 📬 Let's Connect!
 
 <div align="center">
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:abhilashpatel417@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://linkedin.com/in/mudamabhilash" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/yourhandle" target="_blank">
@@ -157,3 +157,4 @@ const currentFocus = {
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Thank you for visiting!</b> Have a great day! ✨</em> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 </div>
+
